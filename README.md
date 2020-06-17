@@ -3,7 +3,7 @@ Introduction:
 This is a project where I created `cartogram` map styles from [Mapbox](https://apps.mapbox.com/cartogram/#13.01/40.7251/-74.0051) and then generate map tiles from Qgis Tiles. My map tiles  can be visit [here](https://shuangw1.github.io/maptiles/).
 
 I upload my own image, a cute puppy, to Mapbox cartogram and create the following brown-yellowish map stiles. Then I get into Qgis and generate map tiles following the tutorial found [here](https://github.com/jakobzhao/geog458/tree/master/labs/lab04).
-![Map tiles](/assets/Map%20tiles_weqfge8os.JPG)
+
 
 
 Code example:
